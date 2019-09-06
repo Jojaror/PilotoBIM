@@ -1,2 +1,0 @@
-# PilotoBIM
-Interoperabilidad BIM
